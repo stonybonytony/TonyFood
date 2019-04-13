@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonyFood", "TonyFood\TonyFood.csproj", "{348A3D4E-0CC2-4DEF-B135-CD385A62F4EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonyFood.Core", "TonyFood.Core\TonyFood.Core.csproj", "{910A0B8B-3741-49AC-A185-662F2F147072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonyFood.Data", "TonyFood.Data\TonyFood.Data.csproj", "{587337F7-2E1B-4E5E-8528-CF46D1F72812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{348A3D4E-0CC2-4DEF-B135-CD385A62F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{348A3D4E-0CC2-4DEF-B135-CD385A62F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{348A3D4E-0CC2-4DEF-B135-CD385A62F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910A0B8B-3741-49AC-A185-662F2F147072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910A0B8B-3741-49AC-A185-662F2F147072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910A0B8B-3741-49AC-A185-662F2F147072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910A0B8B-3741-49AC-A185-662F2F147072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587337F7-2E1B-4E5E-8528-CF46D1F72812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587337F7-2E1B-4E5E-8528-CF46D1F72812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587337F7-2E1B-4E5E-8528-CF46D1F72812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587337F7-2E1B-4E5E-8528-CF46D1F72812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
